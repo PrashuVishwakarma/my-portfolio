@@ -1,2 +1,17 @@
-# my-portfolio
-My first personal portfolio website showcasing my projects, skills, and achievements. Built using HTML, CSS, and JavaScript with a clean and responsive design.
+# 💼 My Personal Portfolio
+
+Welcome to my personal portfolio website! This project showcases who I am, my skills, projects, and achievements in the field of software development.
+
+## 🔗 Live Website
+[Click here to view the live site](https://yourusername.github.io/portfolio)
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript
+
+## 📁 Features
+- Fully responsive design
+- Project showcase with descriptions
+- About me section
+- Contact form / social media links
