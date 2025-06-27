@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases who I am, my skills, projects, and achievements in the field of software development.
 
 ## 🔗 Live Website
-[Click here to view the live site](https://yourusername.github.io/portfolio)
+[Click here to view the live site](https://prashuvishwakarma.github.io/my-portfolio/)
 
 ## 🛠️ Built With
 - HTML5
