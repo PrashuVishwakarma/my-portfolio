@@ -81,7 +81,7 @@ document.querySelectorAll("section").forEach((section) => {
 
 // Dynamic hero image (placeholder functionality)
 const heroImg = document.getElementById("heroImg");
-const images = ["image/profilimg.jpg",
+const images = ["image/profilImg.jpg",
     "image/profil2.jpg"
 ];
 
